@@ -1,0 +1,1 @@
+update  MG1871150_Ramen  set shop_name='THIS IS A MOVE RAMEN', Rating=0 where Ramen_ID=67;
